@@ -20,7 +20,9 @@ $DATA/
 ├── ...
 ├── data                    
 │   ├── imagenet            
-│   │   ├── val             
+│   │   ├── val  
+│   │   ├── ILSVRC2012_devkit_t12.tar.gz
+│   │   ├── ILSVRC2012_devkit_t12         
 │   └── ...                 
 └── ...
 ```
