@@ -122,7 +122,9 @@ The directory structure should look like
 .
 ├── ...
 ├── data                    
-│   ├── CUB-200-2011            
+│   ├── CUB-200-2011 
+│   │    ├── CUB_200_2011  
+│   │    ├── attributes.txt                
 │   └── ...                 
 └── ...
 ```
