@@ -4,7 +4,7 @@ dataset: oxford_pet
 data_path : data
 pre_trained_corpus: laion400m
 
-alpha: 0.6
+alpha: 0.5
 n_samples: 100
 n_run: 20
 patch_n: 60

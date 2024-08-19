@@ -1,7 +1,9 @@
 model_size: ViT-B/32
 batch_size: 32
 dataset: cub
-data_path : data/CUB_200_2011 
+# data_path : data/CUB_200_2011/
+data_path : data/CUB-200-2011/CUB_200_2011/
+pre_trained_corpus: laion400m
 
 alpha: 0.5
 n_samples: 100
