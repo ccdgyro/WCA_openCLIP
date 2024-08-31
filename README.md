@@ -1,3 +1,6 @@
+**NOTICE:** This repo is an unofficial implementation of the WCA algorithm, a refined version of the CLIP-score with fine-grained alignment, authored by Jinhao Li et al., published in ICML 2024.
+
+
 # Visual-Text Cross Alignment: Refining the Similarity Score in Vision-Language Models
 
 Authors: Jinhao Li, Haopeng Li, Sarah M. Erfani, Lei Feng, James Bailey, Feng Liu
