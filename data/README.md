@@ -15,8 +15,8 @@ $DATA/
 - Create a folder named `imagenet/` under `$DATA`.
 - Extract the validation sets to `$DATA/imagenet/val`. The directory structure should look like
 - Under the directory `$DATA/imagenet/`, execute the following two commands: 
-    - wget https:wget https://image-net.org/data/ILSVRC/2012/ILSVRC2012_devkit_t12.tar.gz
-    - tar xzf ILSVRC2012_devkit_t12.tar.gz
+    - `wget https://image-net.org/data/ILSVRC/2012/ILSVRC2012_devkit_t12.tar.gz`
+    - `tar xzf ILSVRC2012_devkit_t12.tar.gz`
 - Appreciate this helpful repo: https://github.com/PatrickHua/EasyImageNet
 
 ```
