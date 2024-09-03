@@ -1,4 +1,4 @@
-# **NOTICE:** 
+# **NOTICE** 
 
 This repo is an unofficial implementation of adapting the [WCA](https://github.com/JinhaoLee/WCA) algorithm to [openCLIP](https://github.com/mlfoundations/open_clip). The original algorithm is based on OpenAI's [CLIP](https://github.com/openai/CLIP). WCA, a refined version of the CLIP-score with fine-grained alignment, was authored by Jinhao Li et al. and published in ICML 2024.
 
