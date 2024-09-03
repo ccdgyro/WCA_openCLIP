@@ -17,6 +17,7 @@ $DATA/
 - Under the directory `$DATA/imagenet/`, execute the following two commands: 
     - wget https:wget https://image-net.org/data/ILSVRC/2012/ILSVRC2012_devkit_t12.tar.gz
     - tar xzf ILSVRC2012_devkit_t12.tar.gz
+- Appreciate this helpful repo: https://github.com/PatrickHua/EasyImageNet
 
 ```
 .
