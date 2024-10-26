@@ -1,8 +1,9 @@
 # **NOTICE** 
 
 - [WCA](https://github.com/JinhaoLee/WCA), a refined version of the CLIP-score with fine-grained visual-text alignment, was authored by Jinhao Li et al. and published in ICML 2024;
-- This repo is an unofficial implementation of adapting the WCA algorithm to [openCLIP](https://github.com/mlfoundations/open_clip);
-- The original algorithm is based on OpenAI's [CLIP](https://github.com/openai/CLIP).
+- The original algorithm is based on OpenAI's [CLIP](https://github.com/openai/CLIP);
+- This repo is an unofficial implementation of adapting the WCA algorithm to [openCLIP](https://github.com/mlfoundations/open_clip).
+
 
 
 
